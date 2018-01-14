@@ -1,0 +1,6 @@
+C:\Users\Екатериниус\source\repos\cClculator\Calc\bin\Debug\Calc.dll
+C:\Users\Екатериниус\source\repos\cClculator\Calc\bin\Debug\Calc.pdb
+C:\Users\Екатериниус\source\repos\cClculator\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Екатериниус\source\repos\cClculator\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Екатериниус\source\repos\cClculator\Calc\obj\Debug\Calc.dll
+C:\Users\Екатериниус\source\repos\cClculator\Calc\obj\Debug\Calc.pdb
